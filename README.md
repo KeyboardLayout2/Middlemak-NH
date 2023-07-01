@@ -1,6 +1,5 @@
 # Middlemak-NH
 Middlemak-NH keyboard layout
-Variant of Middlemak named Middlemak-NH:
 
     QWLDG JFOU:
     NSRTP YHEIA
